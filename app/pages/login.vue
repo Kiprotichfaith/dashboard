@@ -7,7 +7,7 @@ const router = useRouter()
 // Admin credentials (dummy)
 const adminUser = {
   email: 'admin@kvda.go.ke',
-  password: 'Admin@123'
+  password: 'admin123'
 }
 
 // Form state
